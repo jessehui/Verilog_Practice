@@ -1,3 +1,5 @@
+//*********门级结构描述D触发器***********
+
 module flop(data,clock,clear,q,qb);
 	input data,clock,clear;
 	output q,qb;

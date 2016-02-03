@@ -1,3 +1,4 @@
+//*************门级结构描述4位寄存器***********
 `include	"flop.v"
 module 		hardreg(d,clk,clrb,q);
 input 		clk,clrb;
